@@ -1,0 +1,4 @@
+# ignore all VS Code Build Files
+*.vscode
+*.exe
+
